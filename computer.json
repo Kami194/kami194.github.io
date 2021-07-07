@@ -1,5 +1,54 @@
 [
-
+  {
+    "Brand": "Lenovo",
+    "ProductName": "ThinkPad T15",
+    "GraphicName": "thinkpadt15.png",
+    "CostPrice": "1379.50",
+    "MSRP": "1800.00",
+    "QtyOnHand": "15",
+    "QtyBackOrder": "15",
+    "Description": "The ultra portable laptop"
+  },
+  {
+    "Brand": "Lenovo",
+    "ProductName": "ThinkPad T14s Gen 2 Intel",
+    "GraphicName": "thinkpadt14.png",
+    "CostPrice": "2105.40",
+    "MSRP": "2300.00",
+    "QtyOnHand": "14",
+    "QtyBackOrder": "14",
+    "Description": "The workstation ultraportable"
+  },
+  {
+    "Brand": "Lenovo",
+    "ProductName": "ThinkPad X1 Carbon Gen 8",
+    "GraphicName": "x1carbon.png",
+    "CostPrice": "2231.40",
+    "MSRP": "2500.00",
+    "QtyOnHand": "13",
+    "QtyBackOrder": "13",
+    "Description": "The lightest laptop in thinkpad line"
+  },
+  {
+    "Brand": "Lenovo",
+    "ProductName": "ThinkPad X13 AMD",
+    "GraphicName": "thinkpadx13.png",
+    "CostPrice": "2117.40",
+    "MSRP": "2300.00",
+    "QtyOnHand": "12",
+    "QtyBackOrder": "12",
+    "Description": "Small and practice, the best choice for you"
+  },
+  {
+    "Brand": "Lenovo",
+    "ProductName": "ChromeBook 3 AMD",
+    "GraphicName": "chromebook3.png",
+    "CostPrice": "324.99",
+    "MSRP": "500.00",
+    "QtyOnHand": "11",
+    "QtyBackOrder": "11",
+    "Description": "The chrome version of the best laptop"
+  },
   {
     "Brand": "Apple",
     "ProductName": "Macbook Air",
@@ -50,11 +99,10 @@
     "QtyBackOrder": "53",
     "Description": "All in one desktop from apple"
   },
-
   {
-    "Brand": "Dell",
-    "ProductName": "XPS 13",
-    "GraphicName": "xps13.png",
+    "Brand": "HP",
+    "ProductName": "Envy 14-eb00 TouchScreen",
+    "GraphicName": "envy.png",
     "CostPrice": "1649.99",
     "MSRP": "1999.99",
     "QtyOnHand": "12",
@@ -62,9 +110,9 @@
     "Description": "Laptop with a powerfull processor that can handle everything faster"
   },
   {
-    "Brand": "Dell",
-    "ProductName": "Latitude",
-    "GraphicName": "Latitude.png",
+    "Brand": "HP",
+    "ProductName": "Spectre x360",
+    "GraphicName": "spectre.png",
     "CostPrice": "1499.99",
     "MSRP": "1799.99",
     "QtyOnHand": "15",
@@ -72,9 +120,9 @@
     "Description": "Quick, light, and small. Lovely pen comes together"
   },
   {
-    "Brand": "Dell",
-    "ProductName": "XPS 17",
-    "GraphicName": "XPS17.png",
+    "Brand": "HP",
+    "ProductName": "15-ef1027ca HD",
+    "GraphicName": "15ef.png",
     "CostPrice": "729.99",
     "MSRP": "999.99",
     "QtyOnHand": "15",
@@ -82,9 +130,9 @@
     "Description": "Great computer. Light and fast, keyboard on the right side. "
   },
   {
-    "Brand": "Dell",
-    "ProductName": "Inspiron",
-    "GraphicName": "Inspiron.png",
+    "Brand": "HP",
+    "ProductName": "ProBook 450",
+    "GraphicName": "probook450.png",
     "CostPrice": "1359.00",
     "MSRP": "1599.99",
     "QtyOnHand": "15",
@@ -92,64 +140,13 @@
     "Description": "The 450 lineup has excellent performance, ports and low weight"
   },
   {
-    "Brand": "Dell",
-    "ProductName": "Vostro",
-    "GraphicName": "vostro.png",
+    "Brand": "HP",
+    "ProductName": "EliteBook 850",
+    "GraphicName": "elitebook850.png",
     "CostPrice": "2389.00",
     "MSRP": "2599.00",
     "QtyOnHand": "12",
     "QtyBackOrder": "15",
     "Description": "Screen is bright and vibrant and the keyboard is tactile and responsive"
-  },
-  {
-    "Brand": "Lenovo",
-    "ProductName": "ThinkPad T14s Gen 2 Intel",
-    "GraphicName": "thinkpadt14.png",
-    "CostPrice": "2105.40",
-    "MSRP": "2300.00",
-    "QtyOnHand": "14",
-    "QtyBackOrder": "14",
-    "Description": "The workstation ultraportable"
-  },
-  {
-    "Brand": "Lenovo",
-    "ProductName": "ThinkPad X1 Carbon Gen 8",
-    "GraphicName": "x1carbon.png",
-    "CostPrice": "2231.40",
-    "MSRP": "2500.00",
-    "QtyOnHand": "13",
-    "QtyBackOrder": "13",
-    "Description": "The lightest laptop in thinkpad line"
-  },
-  {
-    "Brand": "Lenovo",
-    "ProductName": "ThinkPad X13 AMD",
-    "GraphicName": "thinkpadx13.png",
-    "CostPrice": "2117.40",
-    "MSRP": "2300.00",
-    "QtyOnHand": "12",
-    "QtyBackOrder": "12",
-    "Description": "Small and practice, the best choice for you"
-  },
-  {
-    "Brand": "Lenovo",
-    "ProductName": "ChromeBook 3 AMD",
-    "GraphicName": "chromebook3.png",
-    "CostPrice": "324.99",
-    "MSRP": "500.00",
-    "QtyOnHand": "11",
-    "QtyBackOrder": "11",
-    "Description": "The chrome version of the best laptop"
-  },
-  {
-    "Brand": "Lenovo",
-    "ProductName": "ThinkPad T15",
-    "GraphicName": "thinkpadt15.png",
-    "CostPrice": "1379.50",
-    "MSRP": "1800.00",
-    "QtyOnHand": "15",
-    "QtyBackOrder": "15",
-    "Description": "The ultra portable laptop"
   }
-
 ]
